@@ -41,7 +41,7 @@ breaking down the relative contribution and trajectory of individual emission so
 
 ## Key Findings
 
-- **Enteric fermentation** is India's single largest agricultural emission source — 
+- **Enteric fermentation** is India's single largest agricultural emission source - 
   consistent with India having the world's largest livestock population (~536 million animals)
 - **Rice cultivation** is the second largest source, reflecting India's status as 
   the world's second largest rice producer (~44 million hectares under cultivation)
@@ -56,11 +56,11 @@ breaking down the relative contribution and trajectory of individual emission so
 
 | File | Description |
 |------|-------------|
-| `analysis.py` | Main Python script — data loading, cleaning, analysis, visualisation |
+| `analysis.py` | Main Python script - data loading, cleaning, analysis, visualisation |
 | `india_afolu_summary.csv` | Exported summary of emissions by source and year |
 | `chart1_total_emissions_trend.png` | India total agricultural GHG emissions trend |
 | `chart2_top_sources.png` | Top 8 agricultural emission sources (last 10-year average) |
-| `chart3_key_sources_comparison.png` | Key sources comparison — enteric fermentation, rice, fertilisers, manure |
+| `chart3_key_sources_comparison.png` | Key sources comparison - enteric fermentation, rice, fertilisers, manure |
 
 ---
 
